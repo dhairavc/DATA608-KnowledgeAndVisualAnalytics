@@ -1,0 +1,64 @@
+<head>
+  <h2>DATA608 - Module 5: Javascript</h2>
+  <h3>Dhairav Chhatbar</h3>
+</head>
+
+<body>
+
+<h4>Question 1:</h4>
+<p>Create a function to reverse any word that you type in. This can be typed into either an input 
+box or an alert box, and then print the result in a box or on the webpage</p>
+
+<input type="text" id="q1text" value="Enter text to reverse">
+<button onclick="reverseFunc()">Reverse</button>
+
+<p id="q1"></p>
+
+
+<script>
+function reverseFunc() {
+  var x = document.getElementById("q1text").value;
+  document.getElementById("q1").innerHTML = reversestr(x);
+  
+}
+
+function reversestr(s) {
+    return s.split( '' ).reverse( ).join( '' );
+}
+
+
+</script>
+  
+</body>
+
+
+<body>
+<h4>Question 2:</h4>
+<p>Create a function that takes an input number, and prints a table with the first 20 multiples of 
+the number, in order 5x4</p>
+
+<input type="num" id="q2num" value="Enter number">
+<button onclick="multiples()">Get Multiples</button>
+<p id="q2"></p>
+
+<script>
+function multiples() {
+  var y = document.getElementById("q2num").value;
+  document.getElementById("q2").innerHTML = calc_multiples(y);
+  
+}
+  
+function calc_multiples(n) {
+ var nm = 
+ "<table><tr><td>" + 1*n + "</td><td>" + 2*n + "</td><td>" + 3*n + "</td><td>" + 4*n + 
+ "</td></tr><tr><td>" + 5*n + "</td><td>" + 6*n + "</td><td>" + 7*n + "</td><td>" + 8*n + 
+ "</td></tr><tr><td>" + 9*n + "</td><td>" + 10*n + "</td><td>" + 11*n + "</td><td>" + 12*n + 
+ "</td></tr><tr><td>" + 13*n+ "</td><td>" + 14*n+ "</td><td>" + 15*n + "</td><td>" + 16*n + 
+ "</td></tr><tr><td>" + 17*n + "</td><td>" + 18*n + "</td><td>" + 19*n + "</td><td>" + 20*n + 
+ "</td></tr></table>"
+ return(nm)
+}
+  
+</script>
+
+</body>
