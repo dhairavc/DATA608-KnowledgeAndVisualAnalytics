@@ -1,78 +1,78 @@
-Title,Date,Size,Scale,Location,Latitude,Longitude
-May 28th,5/28/2020,100,2,Union Square,40.735556,-73.990556
-May 28th,5/28/2020,100,2,City Hall,40.7127,-74.0059
-May 29th,5/29/2020,500,3,Foley Square,40.7147,-74.0028
-May 29th,5/29/2020,500,3,Adam Clayton Powell Jr. State Office Building,40.80923,-73.94746
-May 29th,5/29/2020,500,3,Barclays Center,40.682661,-73.975225
-May 29th,5/29/2020,500,3,79th Precinct,40.688812,-73.944839
-May 29th,5/29/2020,500,3,88th Precinct,40.690071,-73.960564
-May 30th,5/30/2020,1000,4,Jackson Heights,40.751389,-73.886944
-May 31st,5/31/2020,100s,3,Brooklyn Bridge,40.7057,-73.9964
-May 31st,5/31/2020,100s,3,Bryant Park,40.753889,-73.983889
-May 31st,5/31/2020,,1,SoHo,40.723,-74
-May 31st,5/31/2020,100s,3,Foley Square,40.7147,-74.0028
-May 31st,5/31/2020,500,3,Grand Army Plaza,40.6743,-73.9702
-May 31st,5/31/2020,500,3,"Williamsburg, Brooklyn",40.71,-73.96
-May 31st,5/31/2020,800,3,Barclays Center,40.682661,-73.975225
-May 31st,5/31/2020,,1,Prospect Park (Brooklyn),40.661667,-73.970833
-May 31st,5/31/2020,,1,Downtown Brooklyn,40.694,-73.986
-May 31st,5/31/2020,,1,Union Square,40.735556,-73.990556
-June 1st,6/1/2020,,1,Restoration Plaza,40.680196,-73.9458
-June 1st,6/1/2020,,1,Astoria Park,40.780229,-73.920935
-June 1st,6/1/2020,,1,SoHo,40.723,-74
-June 1st,6/1/2020,900,3,The Bronx,40.837222,-73.886111
-June 1st,6/1/2020,,1,Macy's Herald Square,40.750278,-73.988333
-June 2nd,6/2/2020,300,2,Astoria Park,40.780229,-73.920935
-June 2nd,6/2/2020,,1,Foley Square,40.7147,-74.0028
-June 2nd,6/2/2020,100,2,Time Square,40.757,-73.986
-June 2nd,6/2/2020,200,2,Union Square,40.735556,-73.990556
-June 2nd,6/2/2020,200,2,Astor Place,40.729861,-73.991434
-June 2nd,6/2/2020,200,2,Greenwhich Village,40.734,-74.002
-June 2nd,6/2/2020,200,2,Manhattan Bridge,40.707,-73.9905
-June 3rd,6/3/2020,,1,Cadman Plaza,40.698121,-73.990431
-June 3rd,6/3/2020,,1,Gracie Mansion,40.776111,-73.943333
-June 3rd,6/3/2020,,1,Flatbush Brooklyn,40.645,-73.96
-June 4th,6/4/2020,10000,6,Cadman Plaza,40.698121,-73.990431
-June 4th,6/4/2020,5000,5,Brooklyn Bridge,40.7057,-73.9964
-June 4th,6/4/2020,,1,Grand Army Plaza,40.6743,-73.9702
-June 4th,6/4/2020,500,3,"Mott Haven, Bronx",40.81,-73.926
-June 4th,6/4/2020,600,3,"Fort Greene, Brooklyn",40.687,-73.975
-June 4th,6/4/2020,600,3,"Williamsburg, Brooklyn",40.71,-73.96
-June 4th,6/4/2020,600,3,Clinton Hill,40.69,-73.96
-June 5th,6/5/2020,1000,4,"Metropolitan Detention Center, Brooklyn",40.660278,-74.004444
-June 5th,6/5/2020,500,3,Columbus Circle,40.769,-73.982
-June 7th,6/7/2020,2000,5,Columbus Circle,40.769,-73.982
-June 7th,6/7/2020,,1,West Village,40.736,-74.004
-June 7th,6/7/2020,2000,5,Central Park,40.782222,-73.965278
-June 7th,6/7/2020,,1,Gracie Mansion,40.776111,-73.943333
-June 7th,6/7/2020,,1,Fort Greene,40.687,-73.975
-June 7th,6/7/2020,,1,McCarren Park,40.721,-73.952
-June 7th,6/7/2020,,1,Grand Army Plaza,40.6743,-73.9702
-June 7th,6/7/2020,,1,"Crown Heights, Brooklyn",40.673,-73.946
-June 7th,6/7/2020,,1,"Dumbo, Brooklyn",40.703,-73.99
-June 7th,6/7/2020,100s,3,Rockaway Beach,40.585606,-73.80588
-June 8th,6/8/2020,100s,3,City Hall,40.7127,-74.0059
-June 8th,6/8/2020,2000,5,Washington Square Park,40.730833,-73.9975
-June 8th,6/8/2020,300,2,Grand Army Plaza,40.6743,-73.9702
-June 8th,6/8/2020,,1,88th Precinct,40.690071,-73.960564
-June 9th,6/9/2020,2500,5,Brooklyn Borough Hall,40.692778,-73.99
-June 9th,6/9/2020,,1,Pelham Bay Park,40.865556,-73.808333
-June 9th,6/9/2020,100s,3,City Hall,40.7127,-74.0059
-June 10th,6/10/2020,,1,New York Public Library,40.753333,-73.982222
-June 10th,6/10/2020,1000+,5,Grand Army Plaza,40.6743,-73.9702
-June 11th,6/11/2020,,1,Harlem,40.81155,-73.94648
-June 11th,6/11/2020,,1,Wall Street,40.706001,-74.008804
-June 12th,6/12/2020,,1,Barclays Center,40.682661,-73.975225
-June 12th,6/12/2020,,1,South Bronx,40.81621,-73.91735
-June 12th,6/12/2020,,1,Grand Army Plaza,40.6743,-73.9702
-June 14th,6/14/2020,,1,Bedford-Stuyvesant,40.687,-73.941
-June 14th,6/14/2020,15000,7,Brooklyn Museum,40.671306,-73.96375
-June 23rd,6/23/2020,100,2,City Hall Park,40.712222,-74.007222
-June 30th,6/30/2020,,1,Surrogate's Courthouse,40.713611,-74.004722
-June 30th,6/30/2020,,1,Manhattan Municipal Building,40.713056,-74.003889
-June 30th,6/30/2020,,1,Tweed Courthouse,40.713333,-74.005556
-July 28th,7/28/2020,,1,Kips Bay,40.741,-73.978
-July 28th,7/28/2020,,1,Madison Square Park,40.742054,-73.987984
-September 4th,9/4/2020,100s,3,Time Square,40.757,-73.986
-September 5th,9/5/2020,,1,Trump Tower,40.7625,-73.9738
-October 3rd,10/3/2020,,1,Madison Square Park,40.742054,-73.987984
+Title,Stitle,Date,Size,Scale,Location,Latitude,Longitude
+May 28th,5/28,5/28/2020,100,2,Union Square,40.735556,-73.990556
+May 28th,5/28,5/28/2020,100,2,City Hall,40.7127,-74.0059
+May 29th,5/29,5/29/2020,500,3,Foley Square,40.7147,-74.0028
+May 29th,5/29,5/29/2020,500,3,Adam Clayton Powell Jr. State Office Building,40.80923,-73.94746
+May 29th,5/29,5/29/2020,500,3,Barclays Center,40.682661,-73.975225
+May 29th,5/29,5/29/2020,500,3,79th Precinct,40.688812,-73.944839
+May 29th,5/29,5/29/2020,500,3,88th Precinct,40.690071,-73.960564
+May 30th,5/30,5/30/2020,1000,4,Jackson Heights,40.751389,-73.886944
+May 31st,5/31,5/31/2020,100s,3,Brooklyn Bridge,40.7057,-73.9964
+May 31st,5/31,5/31/2020,100s,3,Bryant Park,40.753889,-73.983889
+May 31st,5/31,5/31/2020,,1,SoHo,40.723,-74
+May 31st,5/31,5/31/2020,100s,3,Foley Square,40.7147,-74.0028
+May 31st,5/31,5/31/2020,500,3,Grand Army Plaza,40.6743,-73.9702
+May 31st,5/31,5/31/2020,500,3,"Williamsburg, Brooklyn",40.71,-73.96
+May 31st,5/31,5/31/2020,800,3,Barclays Center,40.682661,-73.975225
+May 31st,5/31,5/31/2020,,1,Prospect Park (Brooklyn),40.661667,-73.970833
+May 31st,5/31,5/31/2020,,1,Downtown Brooklyn,40.694,-73.986
+May 31st,5/31,5/31/2020,,1,Union Square,40.735556,-73.990556
+June 1st,6/1,6/1/2020,,1,Restoration Plaza,40.680196,-73.9458
+June 1st,6/1,6/1/2020,,1,Astoria Park,40.780229,-73.920935
+June 1st,6/1,6/1/2020,,1,SoHo,40.723,-74
+June 1st,6/1,6/1/2020,900,3,The Bronx,40.837222,-73.886111
+June 1st,6/1,6/1/2020,,1,Macy's Herald Square,40.750278,-73.988333
+June 2nd,6/2,6/2/2020,300,2,Astoria Park,40.780229,-73.920935
+June 2nd,6/2,6/2/2020,,1,Foley Square,40.7147,-74.0028
+June 2nd,6/2,6/2/2020,100,2,Time Square,40.757,-73.986
+June 2nd,6/2,6/2/2020,200,2,Union Square,40.735556,-73.990556
+June 2nd,6/2,6/2/2020,200,2,Astor Place,40.729861,-73.991434
+June 2nd,6/2,6/2/2020,200,2,Greenwhich Village,40.734,-74.002
+June 2nd,6/2,6/2/2020,200,2,Manhattan Bridge,40.707,-73.9905
+June 3rd,6/3,6/3/2020,,1,Cadman Plaza,40.698121,-73.990431
+June 3rd,6/3,6/3/2020,,1,Gracie Mansion,40.776111,-73.943333
+June 3rd,6/3,6/3/2020,,1,Flatbush Brooklyn,40.645,-73.96
+June 4th,6/4,6/4/2020,10000,6,Cadman Plaza,40.698121,-73.990431
+June 4th,6/4,6/4/2020,5000,5,Brooklyn Bridge,40.7057,-73.9964
+June 4th,6/4,6/4/2020,,1,Grand Army Plaza,40.6743,-73.9702
+June 4th,6/4,6/4/2020,500,3,"Mott Haven, Bronx",40.81,-73.926
+June 4th,6/4,6/4/2020,600,3,"Fort Greene, Brooklyn",40.687,-73.975
+June 4th,6/4,6/4/2020,600,3,"Williamsburg, Brooklyn",40.71,-73.96
+June 4th,6/4,6/4/2020,600,3,Clinton Hill,40.69,-73.96
+June 5th,6/5,6/5/2020,1000,4,"Metropolitan Detention Center, Brooklyn",40.660278,-74.004444
+June 5th,6/5,6/5/2020,500,3,Columbus Circle,40.769,-73.982
+June 7th,6/7,6/7/2020,2000,5,Columbus Circle,40.769,-73.982
+June 7th,6/7,6/7/2020,,1,West Village,40.736,-74.004
+June 7th,6/7,6/7/2020,2000,5,Central Park,40.782222,-73.965278
+June 7th,6/7,6/7/2020,,1,Gracie Mansion,40.776111,-73.943333
+June 7th,6/7,6/7/2020,,1,Fort Greene,40.687,-73.975
+June 7th,6/7,6/7/2020,,1,McCarren Park,40.721,-73.952
+June 7th,6/7,6/7/2020,,1,Grand Army Plaza,40.6743,-73.9702
+June 7th,6/7,6/7/2020,,1,"Crown Heights, Brooklyn",40.673,-73.946
+June 7th,6/7,6/7/2020,,1,"Dumbo, Brooklyn",40.703,-73.99
+June 7th,6/7,6/7/2020,100s,3,Rockaway Beach,40.585606,-73.80588
+June 8th,6/8,6/8/2020,100s,3,City Hall,40.7127,-74.0059
+June 8th,6/8,6/8/2020,2000,5,Washington Square Park,40.730833,-73.9975
+June 8th,6/8,6/8/2020,300,2,Grand Army Plaza,40.6743,-73.9702
+June 8th,6/8,6/8/2020,,1,88th Precinct,40.690071,-73.960564
+June 9th,6/9,6/9/2020,2500,5,Brooklyn Borough Hall,40.692778,-73.99
+June 9th,6/9,6/9/2020,,1,Pelham Bay Park,40.865556,-73.808333
+June 9th,6/9,6/9/2020,100s,3,City Hall,40.7127,-74.0059
+June 10th,6/10,6/10/2020,,1,New York Public Library,40.753333,-73.982222
+June 10th,6/10,6/10/2020,1000+,5,Grand Army Plaza,40.6743,-73.9702
+June 11th,6/11,6/11/2020,,1,Harlem,40.81155,-73.94648
+June 11th,6/11,6/11/2020,,1,Wall Street,40.706001,-74.008804
+June 12th,6/12,6/12/2020,,1,Barclays Center,40.682661,-73.975225
+June 12th,6/12,6/12/2020,,1,South Bronx,40.81621,-73.91735
+June 12th,6/12,6/12/2020,,1,Grand Army Plaza,40.6743,-73.9702
+June 14th,6/14,6/14/2020,,1,Bedford-Stuyvesant,40.687,-73.941
+June 14th,6/14,6/14/2020,15000,7,Brooklyn Museum,40.671306,-73.96375
+June 23rd,6/23,6/23/2020,100,2,City Hall Park,40.712222,-74.007222
+June 30th,6/30,6/30/2020,,1,Surrogate's Courthouse,40.713611,-74.004722
+June 30th,6/30,6/30/2020,,1,Manhattan Municipal Building,40.713056,-74.003889
+June 30th,6/30,6/30/2020,,1,Tweed Courthouse,40.713333,-74.005556
+July 28th,7/28,7/28/2020,,1,Kips Bay,40.741,-73.978
+July 28th,7/28,7/28/2020,,1,Madison Square Park,40.742054,-73.987984
+September 4th,9/4,9/4/2020,100s,3,Time Square,40.757,-73.986
+September 5th,9/5,9/5/2020,,1,Trump Tower,40.7625,-73.9738
+October 3rd,10/3,10/3/2020,,1,Madison Square Park,40.742054,-73.987984
